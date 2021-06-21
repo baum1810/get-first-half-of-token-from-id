@@ -1,0 +1,1 @@
+# get-first-half-of-token-from-id
